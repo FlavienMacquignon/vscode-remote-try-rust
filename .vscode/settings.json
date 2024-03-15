@@ -2,5 +2,13 @@
     "search.exclude": {
         "**/target": true
     },
-    "lldb.verboseLogging": true
+    "lldb.verboseLogging": true,
+    "cSpell.words": [
+        "Codespace",
+        "Codespaces",
+        "devcontainer",
+        "devcontainers",
+        "reqs",
+        "rustc"
+    ]
 }
